@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HintDialog</string>
+    <string name="default_title">消息</string>
+    <string name="default_primary_content">一级内容</string>
+    <string name="default_secondary_content">二级内容</string>
+    <string name="default_input_hint">请输入内容</string>
+    <string name="default_cancel">取消</string>
+    <string name="default_confirm">确定</string>
+    <string name="default_single_confirm">知道了</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':hintdialog', ':library'
+rootProject.name='LibraryDemo'
